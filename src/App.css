@@ -1,1 +1,7 @@
 
+.container {
+  display: flex;
+  gap: 40px;
+  margin-top: 80px;
+  margin-left: 60px;
+}
